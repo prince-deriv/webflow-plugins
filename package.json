@@ -1,0 +1,21 @@
+{
+  "name": "webflow-plugins",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "author": "Prince Coching",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
